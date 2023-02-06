@@ -1,0 +1,13 @@
+{
+	"ip": "localhost",
+	"port": 27017,
+	"database": "Biblioteca",
+	"collections":[
+		{
+			"collection": "llibres"
+		}
+		{
+			"collection": "usuaris"
+		}
+	]
+}
